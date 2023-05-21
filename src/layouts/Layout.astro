@@ -17,20 +17,41 @@ const { title } = Astro.props;
 		<title>{title}</title>
 	</head>
 	<body>
+		<header class="fixed w-full px-4 md:px-0">
+			<div class="flex items-center justify-between max-w-screen-lg px-4 py-4 mx-auto">
+			  <div>
+				 <a href="/" class="px-4 py-2 text-sm text-black transition-all duration-700 ease-in-out bg-white rounded-sm hover:rounded-xl">
+					jeksn.me
+				 </a>
+				 </div>
+				 <div class="flex gap-8">
+					<a 
+					href="/small-projects" 
+					class="text-sm transition-all ease-in-out hover:-translate-y-[2px]">
+					  small projects
+					</a>
+					<a 
+					href="https://github.com/jeksn/jeksn23" 
+					class="text-sm transition-all ease-in-out hover:-translate-y-[2px]">
+					  repo
+					</a>
+			  </div>
+			</div>
+			</header>
 		<slot />
 	</body>
 </html>
-<style is:global>
-	:root {
-		--accent: 124, 58, 237;
-		--accent-gradient: linear-gradient(45deg, rgb(var(--accent)), #da62c4 30%, white 60%);
-	}
-	html {
-		font-family: system-ui, sans-serif;
-		background-color: #F6F6F6;
-	}
-	code {
-		font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
-			Bitstream Vera Sans Mono, Courier New, monospace;
-	}
+<style>
+body {
+  color: white;
+  min-height: 100vh;
+  background: conic-gradient(from 90deg at 50% 0%, #111, 50%, #222, #111);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+header {
+  background-color: rgba(22, 22, 23, 0.95);
+}
+
 </style>
