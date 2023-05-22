@@ -12,8 +12,11 @@ const { title } = Astro.props;
 		<meta charset="UTF-8" />
 		<meta name="description" content="Astro description">
 		<meta name="viewport" content="width=device-width" />
+		<meta name="view-transition" content="same-origin" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="generator" content={Astro.generator} />
+		<link rel="preconnect" href="https://fonts.bunny.net">
+		<link href="https://fonts.bunny.net/css?family=albert-sans:300|atkinson-hyperlegible:400" rel="stylesheet" />
 		<title>{title}</title>
 	</head>
 	<body>
@@ -41,17 +44,25 @@ const { title } = Astro.props;
 		<slot />
 	</body>
 </html>
-<style>
+<style is:global>
 body {
-  color: white;
-  min-height: 100vh;
-  background: conic-gradient(from 90deg at 50% 0%, #111, 50%, #222, #111);
-  background-size: cover;
-  background-repeat: no-repeat;
+	color: white;
+	min-height: 100vh;
+	background: conic-gradient(from 90deg at 50% 0%, #111, 50%, #222, #111);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+h1, h2, h3, h4 {
+	font-family: 'Atkinson Hyperlegible', sans-serif;
+}
+
+p {
+	font-family: 'Albert Sans', sans-serif;
 }
 
 header {
-  background-color: rgba(22, 22, 23, 0.95);
+	background-color: rgba(22, 22, 23, 0.95);
 }
 
 </style>
