@@ -22,7 +22,10 @@ const { title } = Astro.props;
 	</head>
 	<body>
 		<Header />
-		<slot />
+		<div class="max-w-screen-lg mx-auto markdown-container">
+				<h1 class="pt-3 pb-6">Reading List</h1>
+				<slot />
+			</div>
 	</body>
 </html>
 <style is:global>
@@ -49,5 +52,25 @@ p {
 header {
 	background-color: rgba(22, 22, 23, 0.95);
 }
-
+.markdown-container {
+	padding: 100px 0;
+}
+.markdown-container h1 {
+	font-size: 3rem;
+}
+.markdown-container h2 {
+	font-size: 2rem;
+}
+.markdown-container h3 {
+	font-size: 1.25rem;
+}
+.markdown-container ul {
+	list-style-type: disc;
+	list-style-position: inside;
+	margin: 15px 0;
+}
+.markdown-container li {
+	list-style-type: disc;
+	margin: 5px 0;
+}
 </style>
