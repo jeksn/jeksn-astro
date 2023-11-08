@@ -1,10 +1,11 @@
 ---
 import Header from '../components/Header.astro';
 export interface Props {
-	title: string;
+	frontmatter: string;
 }
 
-const { title } = Astro.props;
+const {frontmatter} = Astro.props;
+
 ---
 
 <!DOCTYPE html>
@@ -18,11 +19,11 @@ const { title } = Astro.props;
 		<meta name="generator" content={Astro.generator} />
 		<link rel="preconnect" href="https://fonts.bunny.net">
 		<link href="https://fonts.bunny.net/css?family=albert-sans:300|atkinson-hyperlegible:400" rel="stylesheet" />
-		<title>{title}</title>
+		<title>jeksn.me | {frontmatter.title}</title>
 	</head>
 	<body>
 		<Header />
-		<div class="max-w-screen-lg mx-auto markdown-container">
+		<div class="max-w-screen-lg mx-auto markdown-container px-4">
 				<h1 class="pt-3 pb-6">Reading List</h1>
 				<slot />
 			</div>
@@ -39,10 +40,6 @@ body {
 
 h1, h2, h3, h4 {
 	font-family: 'Atkinson Hyperlegible', sans-serif;
-}
-
-ul {
-	padding-top: 100px;
 }
 
 p {
@@ -72,5 +69,8 @@ header {
 .markdown-container li {
 	list-style-type: disc;
 	margin: 5px 0;
+}
+header, .dropdown {
+	background-color: rgba(22, 22, 23, 0.95);
 }
 </style>

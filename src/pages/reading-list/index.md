@@ -1,6 +1,5 @@
 ---
 layout: ../../layouts/MarkdownLayout.astro
-
 title: Reading List
 ---
    
