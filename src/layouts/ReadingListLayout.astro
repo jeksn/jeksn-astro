@@ -24,9 +24,14 @@ const {frontmatter} = Astro.props;
 	<body>
 		<Header />
 		<div class="max-w-screen-lg mx-auto markdown-container px-4">
+			<div class="mb-4">
 				<h1 class="pt-3 pb-6">Reading List</h1>
-				<slot />
+				<p>This is how I keep track of what I've read over the years.</p>
+				<p>I keep this mostly updated in a local file but will try and keep this up-to-date as well.</p>
+				<p>I also try to add what I read in <a href="https://oku.club/user/jek5n" class="underline underline-offset-2">Oku</a> but I forget sometimes.</p>
 			</div>
+			<slot />
+		</div>
 	</body>
 </html>
 <style is:global>

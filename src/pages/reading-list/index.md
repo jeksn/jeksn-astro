@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/MarkdownLayout.astro
+layout: ../../layouts/ReadingListLayout.astro
 title: Reading List
 ---
    
@@ -21,7 +21,7 @@ title: Reading List
 * Bleeding Edge / Thomas Pynchon
 * How to Blow up a Pipeline / Andreas Malm
 * Crash / J.G. Ballard
-* The Time Machine Did It / [[John Swartzwelder]]
+* The Time Machine Did It / John Swartzwelder
 * Be Mine / Richard Ford
 * Death of Democracy / Benjamin Carter Hett
 * Killers of the Flower Moon / David Grann
