@@ -4,10 +4,6 @@ title: Reading List
 ---
    
 ## 2023
-### Current
-* Klätterbaronen / Italo Calvino
-
-### Finished 
 * Project Hail Mary / Andy Weir
 * Let Me Be Frank with You / Richard Ford
 * Poetry / Wilfred Owen
