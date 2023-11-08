@@ -33,16 +33,7 @@ title: Reading List
 * The Atrocity Exhibition / J. G. Ballard
 * ⭐️ Mason & Dixon / Thomas Pynchon 
 
-
-### Paused
-* The Ghost Brigades / John Scalzi
-* Bröderna Karamazov vol.2 / Fjodor Dostojevskij
-
-### Short Stories
-- The Egg / Andy Weir
-
 ## 2022
-### Finished
 * The Storyteller / Dave Grohl (ljudbok)
 * Rendezvous with Rama / Arthur C.Clarke 
 * Memoir: A Life in Computer Games / Sid Meier 
@@ -58,13 +49,7 @@ title: Reading List
 * Hell Yeah or No / Derek Sivers
 * All the Pretty Horses / Cormac McCarthy
 
-### Paused
-* Titus Groan / Mervyn Peake
-* The Dispossessed / Ursula LeGuin
-* Stäppvargen / Hermann Hesse
-
 ## 2021
-### Finished
 * Piranesi / Susanna Clarke
 * Animal Farm / George Orwell
 * American Psycho / Bret Easton Ellis
@@ -87,12 +72,7 @@ title: Reading List
 * Strange Angel / George Pendle
 * Bröderna Karamazov vol.1 / Fjodor Dostojevskij
 
-### Dropped
-* The Green Knight / J.R.R. Tolkien
-* The Street of Crocodiles / Bruno Schulz
-
 ## 2020
-### Finished
 * Pale Fire / Vladimir Nabokov
 * Game Over / Viktor Johansson
 * Passionen enligt GH / Clarice Lispector
@@ -116,31 +96,12 @@ title: Reading List
 * The Writing Life / Annie Dillard
 * Lay of the Land / Richard Ford
 
-### Backburner
-* Lolita / Vladimir Nabokov
-* Magician / Raymond E. Feist
-* Libra / Don DeLillo *s.126*
-* The Great Hunt / Robert Jordan *2019*
-* Cryptonomicon / Neal Stephenson *2019*
-* Speedboats / Renata Adler
-
-### Dropped
-* Michael Kohlhaas / Heinrich von Kleist
-* A Cup of Rage / Raduan Nassar
-
 ## 2019
-### Finished
 * 1793 / Niklas Natt och Dag
 * Mao II / Don DeLillo
 * ⭐️  Levande vatten / Clarice Lispector
 
-### Back-burner
-* Life 3.0 / Max Tegmark
-* Friends of Eddie Coyle / George V. Higgins
-* Minima Moralia / Theodor Adorno
-
 ## 2018
-### Finished
 * Snow Crash / Neal Stephenson
 * Ivan Iljitjs död / Leo Tolstoj
 * Slakthus 5 / Kurt Vonnegut
@@ -151,30 +112,9 @@ title: Reading List
 * Vad jag pratar om när jag pratar om löpning / Haruki Murakami
 * Fragment för att bemästra döden / Alejandra Pizarnik (P)
 * ⭐️  The Haunted Bookshop / Christopher Morley
-* Siddhartha / Hermann Hesse
-
-### Short Stories
-* The Paper Menagerie / Ken Liu 
-* 2 B R 0 2 B / Kurt Vonnegut 
-* Muren / Jean-Paul Sartre 
-* Rummet / Jean-Paul Sartre 
-* Herostratos / Jean-Paul Sartre
-
-### Back-burner
-* The Name of the Wind / Patrick Rothfuss
-* The Turn of the Screw / Henry James
-* The President is Missing / Bill Clinton & James Patterson
-* Acceptance / Jeff Vandermeer
-* Moby Dick / Herman Melville (kap. 13 / s. 72 )
-* Killers of the Flower Moon / David Grann
-* The Name of the Rose / Umberto Eco
-
-### Gave up
-* Blod, Eld, Död / Johannesson & Klingberg
-* 12 Rules for Life: An Antidote to Chaos / Jordan B. Peterson
+* Siddhartha / Hermann Hessen
 
 ## 2017
-### Finished
 * The Eye of the World / Robert Jordan
 * White Noise / Don Delillo
 * Ariel / Sylvia Plath
@@ -197,25 +137,8 @@ title: Reading List
 * Annihilation / Jeff Vandermeer
 * Authority / Jeff Vandermeer
 
-### Short Stories
-* The Gift of the Magi / O. Henry
-* The Swimmer / John Cheever
-* Goodbye, My Brother / John Cheever
-* The Five-Forty-Eight / John Cheever
-* The Itch / Don DeLillo
-
-### Gave up
-* Beloved / Toni Morrison
-* The Double & Notes from the Underground / Fyodor Dostoyevsky
-* Pain, Parties, Work : Sylvia Plath in New York, Summer 1953 / Elizabeth Winder
-* Dårskapens Vägar (March of Folly) / Barbara W. Tuchman - 100 sidor
-
 ## 2016
-### Finished
 * ⭐️ The Sportswriter / Richard Ford
 * Independence Day / Richard Ford
 * Brave New World / Aldous Huxley
 * The Collected Poems / Sylvia Plath
-
-### Gave up
-* American Pastoral / Philip Roth
