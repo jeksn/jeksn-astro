@@ -1,14 +1,19 @@
 ---
+import Layout from '../../layouts/NoteListLayout.astro';
 import { getCollection } from "astro:content";
 
-const pageTitle = "My Notes";
+const pageTitle = "Notes";
 const allPosts = await getCollection("notes");
 ---
-<h1>{pageTitle}</h1>
-<ul>
-   {
-      allPosts.map((post) => (
-      <a href={`/notes/${post.slug}/`}>{post.data.title}</a>
-      ))
-    }
-  </ul>
+<Layout title="jeksn.me | Notes">
+   <h1>{pageTitle}</h1>
+   <ul class="list-none">
+      {
+         allPosts.map((post) => (
+            <li class="list-none">
+               <a href={`/notes/${post.slug}/`}>{post.data.title}</a>
+            </li>
+         ))
+       }
+     </ul>
+</Layout>
