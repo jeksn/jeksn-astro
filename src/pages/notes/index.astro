@@ -1,0 +1,14 @@
+---
+import { getCollection } from "astro:content";
+
+const pageTitle = "My Notes";
+const allPosts = await getCollection("notes");
+---
+<h1>{pageTitle}</h1>
+<ul>
+   {
+      allPosts.map((post) => (
+      <a href={`/notes/${post.slug}/`}>{post.data.title}</a>
+      ))
+    }
+  </ul>

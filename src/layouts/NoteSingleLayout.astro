@@ -1,11 +1,10 @@
 ---
 import Header from '../components/Header.astro';
 export interface Props {
-	frontmatter: string;
+	title: string;
 }
 
-const {frontmatter} = Astro.props;
-
+const { title } = Astro.props;
 ---
 
 <!DOCTYPE html>
@@ -19,17 +18,11 @@ const {frontmatter} = Astro.props;
 		<meta name="generator" content={Astro.generator} />
 		<link rel="preconnect" href="https://fonts.bunny.net">
 		<link href="https://fonts.bunny.net/css?family=albert-sans:300|atkinson-hyperlegible:400" rel="stylesheet" />
-		<title>jeksn.me | {frontmatter.title}</title>
+		<title>{title}</title>
 	</head>
 	<body>
 		<Header />
 		<div class="max-w-screen-lg mx-auto markdown-container px-4">
-			<div class="mb-4">
-				<h1 class="pt-3 pb-6">Reading List</h1>
-				<p>This is how I keep track of what I've read over the years.</p>
-				<p>I keep this mostly updated in a local file but will try and keep this up-to-date as well.</p>
-				<p>I also try to add what I read on <a href="https://oku.club/user/jek5n" class="underline underline-offset-2">Oku.club</a>.</p>
-			</div>
 			<slot />
 		</div>
 	</body>
