@@ -73,7 +73,8 @@
       background-color: rgba(22, 22, 23, 0.95);
    }
    .markdown-container {
-      padding: 100px 0;
+      padding-top: 100px;
+      padding-bottom: 100px;
    }
    .markdown-container h1 {
       font-size: 3rem;
@@ -92,5 +93,17 @@
    .markdown-container li {
       list-style-type: disc;
       margin: 5px 0;
+   }
+   .markdown-container pre {
+      padding: 30px;
+      border-radius: 4px;
+   }
+   @media  (max-width: 900px) {
+      .markdown-container h1 {
+      font-size: 2rem;
+      }
+      .markdown-container h2 {
+      font-size: 1.5rem;
+      }
    }
 </style>
