@@ -28,6 +28,7 @@ title: Reading List
 * Invisible Cities / Italo Calvino
 * The Atrocity Exhibition / J. G. Ballard
 * ⭐️ Mason & Dixon / Thomas Pynchon 
+* Klätterbaronen / Italo Calvino
 
 ## 2022
 * The Storyteller / Dave Grohl (ljudbok)
