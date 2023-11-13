@@ -3,6 +3,10 @@ layout: ../../layouts/ReadingListLayout.astro
 title: Reading List
 ---
    
+## Currently reading:
+* Fiktioner / Jorge Luis Borges
+* Friends of Eddie Coyle / George V. Higgins
+
 ## 2023
 * Project Hail Mary / Andy Weir
 * Let Me Be Frank with You / Richard Ford
