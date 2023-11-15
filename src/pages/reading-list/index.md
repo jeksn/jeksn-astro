@@ -5,7 +5,6 @@ title: Reading List
    
 ## Currently reading:
 * Fiktioner / Jorge Luis Borges
-* Friends of Eddie Coyle / George V. Higgins
 
 ## 2023
 * Project Hail Mary / Andy Weir
@@ -33,6 +32,7 @@ title: Reading List
 * The Atrocity Exhibition / J. G. Ballard
 * ⭐️ Mason & Dixon / Thomas Pynchon 
 * Klätterbaronen / Italo Calvino
+* Friends of Eddie Coyle / George V. Higgins
 
 ## 2022
 * The Storyteller / Dave Grohl (ljudbok)
