@@ -5,6 +5,7 @@ title: Reading List
    
 ## Currently reading:
 * Fiktioner / Jorge Luis Borges
+* Pan / Knut Hamsun
 
 ## 2023
 * Project Hail Mary / Andy Weir
