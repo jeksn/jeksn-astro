@@ -5,7 +5,6 @@ title: Reading List
    
 ## Currently reading:
 * Fiktioner / Jorge Luis Borges
-* Pan / Knut Hamsun
 
 ## 2023
 * Project Hail Mary / Andy Weir
@@ -34,6 +33,7 @@ title: Reading List
 * ⭐️ Mason & Dixon / Thomas Pynchon 
 * Klätterbaronen / Italo Calvino
 * Friends of Eddie Coyle / George V. Higgins
+* Pan / Knut Hamsun
 
 ## 2022
 * The Storyteller / Dave Grohl (ljudbok)
