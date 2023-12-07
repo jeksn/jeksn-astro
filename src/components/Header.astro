@@ -15,7 +15,7 @@
             </svg>
          </button>
       </div>
-         <div x-show="open" class="absolute px-8 w-full left-0 top-[4rem] dropdown"
+         <div x-show="open" x-on:click.outside="open = false" class="absolute px-8 w-full left-0 top-[4rem] dropdown"
          x-transition:enter="transition ease-in-out duration-300"
          x-transition:enter-start="opacity-0"
          x-transition:enter-end="opacity-100"
@@ -26,7 +26,7 @@
             <ul class="pt-4 pb-8 max-w-screen-lg px-4 mx-auto">
                <li class="py-2">
                   <a 
-                  href="/notes" 
+                  href="/notes"
                   class="text-sm transition-all ease-in-out hover:-translate-y-[2px]">
                   Notes
                   </a>
