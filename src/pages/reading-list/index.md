@@ -5,7 +5,7 @@ title: Reading List
    
 ## Currently reading:
 * Bröderna Karamazov vol.2 / Fjodor Dostojevskij
-* The Collapsing Empire / John Scalzi
+* The Consuming Fire / John Scalzi
 
 ## 2023
 * Project Hail Mary / Andy Weir
@@ -35,6 +35,7 @@ title: Reading List
 * Klätterbaronen / Italo Calvino
 * Friends of Eddie Coyle / George V. Higgins
 * Pan / Knut Hamsun
+* The Collapsing Empire / John Scalzi
 
 ## 2022
 * The Storyteller / Dave Grohl (ljudbok)
