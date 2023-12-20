@@ -4,7 +4,6 @@ title: Reading List
 ---
    
 ## Currently reading:
-* Bröderna Karamazov vol.2 / Fjodor Dostojevskij
 * The Consuming Fire / John Scalzi
 
 ## 2023
