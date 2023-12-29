@@ -4,7 +4,7 @@ title: Reading List
 ---
    
 ## Currently reading:
-* The Consuming Fire / John Scalzi
+* The Last Emperox / John Scalzi
 
 ## 2023
 * Project Hail Mary / Andy Weir
@@ -35,6 +35,7 @@ title: Reading List
 * Friends of Eddie Coyle / George V. Higgins
 * Pan / Knut Hamsun
 * The Collapsing Empire / John Scalzi
+* The Consuming Fire / John Scalzi
 
 ## 2022
 * The Storyteller / Dave Grohl (ljudbok)
