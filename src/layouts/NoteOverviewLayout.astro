@@ -1,10 +1,10 @@
 ---
 import Header from '../components/Header.astro';
 export interface Props {
-	frontmatter: string;
+	title: string;
 }
 
-const {frontmatter} = Astro.props;
+const {title} = Astro.props;
 ---
 
 <!DOCTYPE html>
@@ -16,7 +16,7 @@ const {frontmatter} = Astro.props;
 		<meta name="view-transition" content="same-origin" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="generator" content={Astro.generator} />
-		<title>jeksn.me | {frontmatter.title}</title>
+		<title>{title}</title>
 	</head>
 	<body>
 		<Header />
