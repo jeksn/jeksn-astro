@@ -1,5 +1,5 @@
 <header class="fixed w-full px-4 md:px-0">
-   <div x-data="{ open: false }" class="flex items-center justify-between max-w-screen-lg px-4 py-4 mx-auto">
+   <div x-cloak x-data="{ open: false }" class="flex items-center justify-between max-w-screen-lg px-4 py-4 mx-auto">
      <div>
        <a href="/" class="px-4 py-2 text-sm text-black bg-white rounded-sm">
          jeksn.me
@@ -83,15 +83,15 @@
       background-size: cover;
       background-repeat: no-repeat;
    }
-   
+   [x-cloak] { 
+      display: none !important; 
+   }
    h1, h2, h3, h4 {
       font-family: 'Inter Variable', sans-serif;
    }
-   
    p {
       font-family: 'Inter Variable', sans-serif;
    }
-   
    header, .dropdown {
       background-color: rgba(22, 22, 23, 0.95);
    }

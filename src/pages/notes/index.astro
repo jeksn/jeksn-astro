@@ -9,10 +9,12 @@ const allPosts = await getCollection("notes");
    <h1>{pageTitle}</h1>
    <ul class="list-none">
       {
-         allPosts.sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime())
+         (allPosts as any[]).sort((a, b) => new Date(b.data.pubDate) - new Date(a.data.pubDate))
            .map((post) => (
              <li class="list-none flex flex-col pb-4">
-               <slug class="text-[0.8rem] opacity-75 no-underline">{post.data.date}</slug>
+               <slug class="text-[0.8rem] opacity-75 no-underline">
+                  {new Date(post.data.pubDate).toISOString().slice(0, 10)}
+                  </slug>
                <a href={`/notes/${post.slug}/`}>{post.data.title}</a>
              </li>
            ))
