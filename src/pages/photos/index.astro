@@ -1,0 +1,17 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { Image } from 'astro:assets';
+import myPhoto from '../../photos/S001280.jpeg'
+---
+
+<Layout title="jeksn.me | Photos">
+<div class="flex flex-col justify-center max-w-screen-lg px-4 mx-auto">
+   <div class="mt-[100px] pb-[100px]">
+      <div class="mb-16">
+         <h2 class="text-5xl mb-3">Photos</h2>
+         <p>All photos are taken with a Ricoh GRII.</p>
+      </div>
+      <Image src={myPhoto} alt="A description of my image." />
+    </div>
+</div>
+</Layout>
