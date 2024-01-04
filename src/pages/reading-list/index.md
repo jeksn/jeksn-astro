@@ -4,6 +4,9 @@ title: Reading List
 ---
    
 ## Currently reading:
+* TBD
+
+## 2024
 * The Last Emperox / John Scalzi
 
 ## 2023
