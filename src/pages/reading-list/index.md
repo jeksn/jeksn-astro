@@ -4,7 +4,7 @@ title: Reading List
 ---
    
 ## Currently reading:
-* TBD
+* The Three-Body Problem / Cixin Liu
 
 ## 2024
 * The Last Emperox / John Scalzi
