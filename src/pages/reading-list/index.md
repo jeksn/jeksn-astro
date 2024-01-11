@@ -8,6 +8,7 @@ title: Reading List
 
 ## 2024
 * The Last Emperox / John Scalzi
+* The Yellow Wallpaper / Charlotte Perkins Gilman
 
 ## 2023
 * Project Hail Mary / Andy Weir
