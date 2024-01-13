@@ -4,12 +4,13 @@ title: Reading List
 ---
    
 ## Currently reading:
-* The Three-Body Problem / Cixin Liu
 * The Prophet / Khalil Gibran
+* A Psalm for the Wild-Build / Becky Chambers
 
 ## 2024
 * The Last Emperox / John Scalzi
 * The Yellow Wallpaper / Charlotte Perkins Gilman
+* The Three-Body Problem / Cixin Liu
 
 ## 2023
 * Project Hail Mary / Andy Weir
