@@ -5,7 +5,7 @@ title: Reading List
    
 ## Currently reading:
 * The Prophet / Khalil Gibran
-* A Psalm for the Wild-Build / Becky Chambers
+* A Psalm for the Wild-Built / Becky Chambers
 
 ## 2024
 * The Last Emperox / John Scalzi
