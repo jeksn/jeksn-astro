@@ -4,13 +4,14 @@ title: Reading List
 ---
    
 ## Currently reading:
-* The Prophet / Khalil Gibran
-* A Psalm for the Wild-Built / Becky Chambers
+* The Dark Forest / Cixin Liu
 
 ## 2024
 * The Last Emperox / John Scalzi
 * The Yellow Wallpaper / Charlotte Perkins Gilman
 * The Three-Body Problem / Cixin Liu
+* The Prophet / Khalil Gibran
+* A Psalm for the Wild-Built / Becky Chambers
 
 ## 2023
 * Project Hail Mary / Andy Weir
