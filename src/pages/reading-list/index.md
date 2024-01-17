@@ -5,6 +5,7 @@ title: Reading List
    
 ## Currently reading:
 * The Dark Forest / Cixin Liu
+* Fahrenheit 451 / Ray Bradbury
 
 ## 2024
 * The Last Emperox / John Scalzi
