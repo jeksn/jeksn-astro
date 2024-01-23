@@ -5,7 +5,6 @@ title: Reading List
    
 ## Currently reading:
 * The Dark Forest / Cixin Liu
-* Fahrenheit 451 / Ray Bradbury
 
 ## 2024
 * The Last Emperox / John Scalzi
@@ -13,6 +12,7 @@ title: Reading List
 * The Three-Body Problem / Cixin Liu
 * The Prophet / Khalil Gibran
 * A Psalm for the Wild-Built / Becky Chambers
+* Fahrenheit 451 / Ray Bradbury
 
 ## 2023
 * Project Hail Mary / Andy Weir
