@@ -34,7 +34,7 @@ title: Reading List
 * Killers of the Flower Moon / David Grann
 * Sapiens / Yuval Noah Harari
 * Nazis and the Occult / Paul Roland
-* Breath / James Nestor
+* Breath: The New Science of a Lost Art / James Nestor
 * 1177 B.C.: The Year Civilization Collapsed / Eric H.Cline
 * Invisible Cities / Italo Calvino
 * The Atrocity Exhibition / J. G. Ballard
