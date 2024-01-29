@@ -5,6 +5,7 @@ title: Reading List
    
 ## Currently reading:
 * The Dark Forest / Cixin Liu
+* The Talented Mr. Ripley / Patricia Highsmith
 
 ## 2024
 * The Last Emperox / John Scalzi
