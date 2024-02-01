@@ -6,7 +6,7 @@ title: Reading List
 ## Currently reading:
 * The Dark Forest / Cixin Liu
 * The Talented Mr. Ripley / Patricia Highsmith
-
+* Bröderna Karamazov vol.2 / Fjodor Dostojevskij
 ## 2024
 * The Last Emperox / John Scalzi
 * The Yellow Wallpaper / Charlotte Perkins Gilman
