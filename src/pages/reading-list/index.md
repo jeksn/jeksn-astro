@@ -5,8 +5,8 @@ title: Reading List
    
 ## Currently reading:
 * The Dark Forest / Cixin Liu
-* The Talented Mr. Ripley / Patricia Highsmith
 * Bröderna Karamazov vol.2 / Fjodor Dostojevskij
+
 ## 2024
 * The Last Emperox / John Scalzi
 * The Yellow Wallpaper / Charlotte Perkins Gilman
@@ -14,6 +14,7 @@ title: Reading List
 * The Prophet / Khalil Gibran
 * A Psalm for the Wild-Built / Becky Chambers
 * Fahrenheit 451 / Ray Bradbury
+* The Talented Mr. Ripley / Patricia Highsmith
 
 ## 2023
 * Project Hail Mary / Andy Weir
