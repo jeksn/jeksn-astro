@@ -6,6 +6,7 @@ title: Reading List
 ## Currently reading:
 * The Dark Forest / Cixin Liu
 * Bröderna Karamazov vol.2 / Fjodor Dostojevskij
+* Fiktioner / Jorge Luis Borges
 
 ## 2024
 * The Last Emperox / John Scalzi
