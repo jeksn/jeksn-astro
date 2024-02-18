@@ -6,7 +6,6 @@ title: Reading List
 ## Currently reading:
 * The Dark Forest / Cixin Liu
 * Bröderna Karamazov vol.2 / Fjodor Dostojevskij
-* Fiktioner / Jorge Luis Borges
 
 ## 2024
 * The Last Emperox / John Scalzi
@@ -16,6 +15,7 @@ title: Reading List
 * A Psalm for the Wild-Built / Becky Chambers
 * Fahrenheit 451 / Ray Bradbury
 * The Talented Mr. Ripley / Patricia Highsmith
+* Fiktioner / Jorge Luis Borges
 
 ## 2023
 * Project Hail Mary / Andy Weir
