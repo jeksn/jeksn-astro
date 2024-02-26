@@ -4,8 +4,8 @@ title: Reading List
 ---
    
 ## Currently reading:
-* The Dark Forest / Cixin Liu
 * Mr. Mulliner Stories / P.G. Wodehouse
+
 ## 2024
 * The Last Emperox / John Scalzi
 * The Yellow Wallpaper / Charlotte Perkins Gilman
@@ -15,6 +15,7 @@ title: Reading List
 * Fahrenheit 451 / Ray Bradbury
 * The Talented Mr. Ripley / Patricia Highsmith
 * Fiktioner / Jorge Luis Borges
+* The Dark Forest / Cixin Liu
 
 ## 2023
 * Project Hail Mary / Andy Weir
