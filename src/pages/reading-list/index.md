@@ -5,6 +5,7 @@ title: Reading List
    
 ## Currently reading:
 * Mr. Mulliner Stories / P.G. Wodehouse
+* Death's End / Cixin Liu
 
 ## 2024
 * The Last Emperox / John Scalzi
