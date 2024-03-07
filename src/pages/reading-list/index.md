@@ -16,6 +16,7 @@ title: Reading List
 * The Talented Mr. Ripley / Patricia Highsmith
 * Fiktioner / Jorge Luis Borges
 * The Dark Forest / Cixin Liu
+* Bröderna Karamazov vol.2 / Fjodor Dostojevskij
 
 ## 2023
 * Project Hail Mary / Andy Weir
