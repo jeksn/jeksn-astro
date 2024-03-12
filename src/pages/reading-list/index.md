@@ -4,8 +4,8 @@ title: Reading List
 ---
    
 ## Currently reading:
-* Mr. Mulliner Stories / P.G. Wodehouse
 * Death's End / Cixin Liu
+* The PARA Method / Tiago Forte
 
 ## 2024
 * The Last Emperox / John Scalzi
@@ -18,6 +18,7 @@ title: Reading List
 * Fiktioner / Jorge Luis Borges
 * The Dark Forest / Cixin Liu
 * Bröderna Karamazov vol.2 / Fjodor Dostojevskij
+* Mr. Mulliner Stories / P.G. Wodehouse
 
 ## 2023
 * Project Hail Mary / Andy Weir
