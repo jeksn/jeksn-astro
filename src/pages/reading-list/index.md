@@ -5,7 +5,6 @@ title: Reading List
    
 ## Currently reading:
 * Death's End / Cixin Liu
-* The Metamorphosis / Franz Kafka
 
 ## 2024
 * The Last Emperox / John Scalzi
@@ -20,6 +19,7 @@ title: Reading List
 * Bröderna Karamazov vol.2 / Fjodor Dostojevskij
 * Mr. Mulliner Stories / P.G. Wodehouse
 * The PARA Method / Tiago Forte
+* The Metamorphosis / Franz Kafka
 
 ## 2023
 * Project Hail Mary / Andy Weir
