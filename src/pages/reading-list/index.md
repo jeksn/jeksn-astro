@@ -5,6 +5,8 @@ title: Reading List
    
 ## Currently reading:
 * Death's End / Cixin Liu
+* The Things They Carried / Tim O'Brien
+* Revolten, Rörelsen, Refused / Patrik Wirén
 
 ## 2024
 * The Last Emperox / John Scalzi
