@@ -3,7 +3,7 @@ layout: ../../layouts/ReadingListLayout.astro
 title: Reading List
 ---
    
-## Currently reading:
+## Currently Reading:
 * Death's End / Cixin Liu
 * The Things They Carried / Tim O'Brien
 * Revolten, Rörelsen, Refused / Patrik Wirén
