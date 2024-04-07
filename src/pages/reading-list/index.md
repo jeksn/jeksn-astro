@@ -4,7 +4,6 @@ title: Reading List
 ---
    
 ## Currently Reading:
-* Death's End / Cixin Liu
 * The Things They Carried / Tim O'Brien
 * Revolten, Rörelsen, Refused / Patrik Wirén
 
@@ -22,6 +21,7 @@ title: Reading List
 * Mr. Mulliner Stories / P.G. Wodehouse
 * The PARA Method / Tiago Forte
 * The Metamorphosis / Franz Kafka
+* ⭐️ Death's End / Cixin Liu
 
 ## 2023
 * Project Hail Mary / Andy Weir
