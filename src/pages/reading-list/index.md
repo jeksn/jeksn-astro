@@ -4,8 +4,7 @@ title: Reading List
 ---
    
 ## Currently Reading:
-* The Things They Carried / Tim O'Brien
-* Revolten, Rörelsen, Refused / Patrik Wirén
+* Against the Day / Thomas Pynchon
 
 ## 2024
 * The Last Emperox / John Scalzi
@@ -22,6 +21,8 @@ title: Reading List
 * The PARA Method / Tiago Forte
 * The Metamorphosis / Franz Kafka
 * ⭐️ Death's End / Cixin Liu
+* The Things They Carried / Tim O'Brien
+* Revolten, Rörelsen, Refused / Patrik Wirén
 
 ## 2023
 * Project Hail Mary / Andy Weir
