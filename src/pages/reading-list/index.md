@@ -5,6 +5,8 @@ title: Reading List
    
 ## Currently Reading:
 * Against the Day / Thomas Pynchon
+* Why Read? / Mark Edmundson
+* The Atlas / William T. Vollmann
 
 ## 2024
 * The Last Emperox / John Scalzi
